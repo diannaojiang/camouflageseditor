@@ -51,5 +51,14 @@
     <Image Include="camouflageseditor.ico">
       <Filter>资源文件</Filter>
     </Image>
+    <Image Include="bitmap1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="logo.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="logo.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
   </ItemGroup>
 </Project>

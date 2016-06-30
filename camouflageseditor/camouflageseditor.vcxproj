@@ -163,7 +163,10 @@
     <ResourceCompile Include="camouflageseditor.rc" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="bitmap1.bmp" />
     <Image Include="camouflageseditor.ico" />
+    <Image Include="logo.bmp" />
+    <Image Include="logo.png" />
     <Image Include="small.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
